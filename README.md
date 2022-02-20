@@ -1,5 +1,5 @@
-### Arduino
-# Libraries needed to interface with MaxIQSpace Starter Kits v1.5 
+# Arduino
+### Libraries needed to interface with MaxIQSpace Starter Kits v1.5 
 
 Below is a tutorial on installing libraries into the Arduino IDE
 
@@ -65,5 +65,5 @@ Last, but not least important is the way the Arduino Software (IDE) upgrades its
 
 This tutorial based on text by Limor Fried.
 
-# You can also find this tutorial complete with pictures at
+### You can also find this tutorial complete with pictures @
 https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
