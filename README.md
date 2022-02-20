@@ -1,14 +1,14 @@
-# Arduino
-Libraries needed to interface with MaxIQSpace Starter Kits v1.5 
+### Arduino
+#Libraries needed to interface with MaxIQSpace Starter Kits v1.5 
 
 Below is a tutorial on installing libraries into the Arduino IDE
 
 Once you are comfortable with the Arduino software and using the built-in functions, you may want to extend the ability of your Arduino with additional libraries.
 
-What are Libraries?
+#What are Libraries?
 Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, the built-in LiquidCrystal library makes it easy to talk to character LCD displays. There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference. To use the additional libraries, you will need to install them.
 
-Using the Library Manager
+#Using the Library Manager
 To install a new library into your Arduino IDE you can use the Library Manager (available from IDE version 1.6.2). Open the IDE and click to the "Sketch" menu and then Include Library > Manage Libraries.
 
 
@@ -22,7 +22,7 @@ You can now find the new library available in the Sketch > Include Library menu.
 
 
 
-Importing a .zip Library
+###Importing a .zip Library
 
 Libraries are often distributed as a ZIP file or folder. The name of the folder is the name of the library. Inside the folder will be a .cpp file, a .h file and often a keywords.txt file, examples folder, and other files required by the library. Starting with version 1.0.5, you can install 3rd party libraries in the IDE. Do not unzip the downloaded library, leave it as is.
 
@@ -38,7 +38,7 @@ NB: the Library will be available to use in sketches, but with older IDE version
 
 
 
-Manual Installation
+###Manual Installation
 
 When you want to add a library manually, you need to download it as a ZIP file, expand it and put in the proper directory. The ZIP file contains all you need, including usage examples if the author has provided them. The library manager is designed to install this ZIP file automatically as explained in the former chapter, but there are cases where you may want to perform the installation process manually and put the library in the libraries folder of your sketchbook by yourself.
 
@@ -65,4 +65,5 @@ Last, but not least important is the way the Arduino Software (IDE) upgrades its
 
 This tutorial based on text by Limor Fried.
 
-You can also find this tutorial complete with pictures at https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
+#You can also find this tutorial complete with pictures at
+https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
