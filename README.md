@@ -1,5 +1,4 @@
 # Arduino
-### Libraries needed to interface with MaxIQ Space Starter Kits v1.5 
 
 Below is a tutorial on installing libraries into the Arduino IDE
 
