@@ -1,5 +1,7 @@
 # Arduino
 
+## Please download and review material included in "Lab 0" to get started with your SDG starter kit and the Arduino IDE
+
 Below is a tutorial on installing libraries into the Arduino IDE
 
 Once you are comfortable with the Arduino software and using the built-in functions, you may want to extend the ability of your Arduino with additional libraries.
