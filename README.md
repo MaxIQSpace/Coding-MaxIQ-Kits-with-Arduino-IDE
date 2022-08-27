@@ -2,10 +2,10 @@
 
 ## Please download and review material included in "Lab 0" to get started with your SDG starter kit and the Arduino IDE
 Included is:
-   -Lab0(2).doc
-      -Instructional walkthrough to be utilized alongside support video
-    -Blink.ino
-      -Example script
+   -Lab0(2).doc/
+      -Instructional walkthrough to be utilized alongside support video/
+    -Blink.ino/
+      -Example script/
 
 
 
