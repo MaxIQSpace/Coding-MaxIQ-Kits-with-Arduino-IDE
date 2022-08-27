@@ -1,8 +1,16 @@
-# Arduino
+# Using the Arduino IDE to write code to your MaxIQ Kits
 
 ## Please download and review material included in "Lab 0" to get started with your SDG starter kit and the Arduino IDE
+Included is:
+   -Lab0(2).doc
+      -Instructional walkthrough to be utilized alongside support video
+    -Blink.ino
+      -Example script
 
-Below is a tutorial on installing libraries into the Arduino IDE
+
+
+### Below is a tutorial on installing libraries into the Arduino IDE
+# Sourced from Arduino, please see link at bottom for complete guide
 
 Once you are comfortable with the Arduino software and using the built-in functions, you may want to extend the ability of your Arduino with additional libraries.
 
