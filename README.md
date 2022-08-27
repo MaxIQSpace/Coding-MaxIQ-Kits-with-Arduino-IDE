@@ -1,6 +1,6 @@
-# Getting Started with MaxIQ Kits & Arduino
+## Getting Started with MaxIQ Kits & Arduino
 
-## Please download and review material included in "Lab 0" Folder to get started with your MaxIQ kits and the Arduino IDE
+### Please download and review material included in "Lab 0" Folder to get started with your MaxIQ kits and the Arduino IDE
 Included is:
 1. Lab0(2).doc
    - Instructional walkthrough to be utilized alongside support video
