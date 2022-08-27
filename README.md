@@ -1,4 +1,4 @@
-# Using the Arduino IDE to write code to your MaxIQ Kits
+# Getting Started with MaxIQ Kits & Arduino
 
 ## Please download and review material included in "Lab 0" to get started with your MaxIQ kit and the Arduino IDE
 Included is:
