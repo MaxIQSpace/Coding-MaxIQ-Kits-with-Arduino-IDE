@@ -9,8 +9,12 @@ Included is:
 
 
 
+
+
+
+
 ### Below is a tutorial on installing libraries into the Arduino IDE
-# Sourced from Arduino, please see link at bottom for complete guide
+#### Sourced from Arduino, please see link at bottom for complete guide
 
 Once you are comfortable with the Arduino software and using the built-in functions, you may want to extend the ability of your Arduino with additional libraries.
 
