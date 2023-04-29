@@ -20,8 +20,8 @@ Once you are comfortable with the Arduino software and using the built-in functi
 Libraries are a collection of code that makes it easy for you to connect to a sensor, display, module, etc. For example, the built-in LiquidCrystal library makes it easy to talk to character LCD displays. There are hundreds of additional libraries available on the Internet for download. The built-in libraries and some of these additional libraries are listed in the reference. To use the additional libraries, you will need to install them.
 
 
-### You can also find this a tutorial on installing libraries for Arduino IDE v1.x below
+### You can a tutorial on installing libraries for Arduino IDE v1.x below
 https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
 
-### You can also find this a tutorial on installing libraries for Arduino IDE v2.x below
+### You can a tutorial on installing libraries for Arduino IDE v2.x below
 https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library?queryID=93f1765aa537cc56279ccad39ff07ba5
