@@ -24,4 +24,4 @@ Libraries are a collection of code that makes it easy for you to connect to a se
 https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries
 
 ### You can find a tutorial on installing libraries for Arduino IDE v2.x below
-https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library?queryID=93f1765aa537cc56279ccad39ff07ba5
+https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-installing-a-library
