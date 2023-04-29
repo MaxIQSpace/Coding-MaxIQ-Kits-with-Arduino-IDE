@@ -7,7 +7,7 @@ Included is:
 2. Blink.ino
    - Example script
    
-####Please see updated instructions for those running Arduino IDE v2.0+ 
+#### Please see updated instructions for those running Arduino IDE v2.0+ 
 
 Please see https://www.arduino.cc/en/software to find the appropriate Arduino IDE download for you
 
